@@ -1,7 +1,6 @@
 # 🚘 Stolen Vehicle Dashboard
-
-(https://github.com/user-attachments/assets/d8951de6-5c18-442b-9250-dd5d2481f574)
-vehicle%20Dashboard.jpg)
+![Dashboard Preview](stolen%20vehicle%20D![Uploading stolen vehicle Dashboard.jpg…]()
+ashboard.jpg)
 
 This project provides an **interactive dashboard** for analyzing stolen vehicle data across different regions, vehicle types, and model years.  
 The dashboard is built to help identify **patterns, trends, and hotspots** of vehicle theft incidents.
