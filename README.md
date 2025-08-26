@@ -1,4 +1,5 @@
-![stolen vehicle Dashboard](https://github.com/user-attachments/assets/d49b0025-18d0-4ee0-a500-719c508e3977)# 🚘 Stolen Vehicle Dashboard
+# 🚘 Stolen Vehicle Dashboard
+![stolen vehicle Dashboard](https://github.com/user-attachments/assets/d49b0025-18d0-4ee0-a500-719c508e3977)
 ![Dashboard Preview](images/.jpg)
 
 This project provides an **interactive dashboard** for analyzing stolen vehicle data across different regions, vehicle types, and model years.  
